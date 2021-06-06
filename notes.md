@@ -5,6 +5,8 @@ The solution and proof stage must have steps numbered from 1 to *n*.
 Each step must either have an operation or a mathematical rule used (referenced by page number or something like that). 
 Also, you can only use one operation in each step. An operation is any one of the following: Addition, subtraction, multiplication, division, root, or power operation.
 
+The final answer stage must have the final answer, and any applicable units.
+
 ## Evaluate an Expression
 
 When performing an evaluate an expression math question, prove your solution is correct by showing that the solution can betraced back to the original question in reverse.
