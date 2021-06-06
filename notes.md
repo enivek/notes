@@ -60,6 +60,8 @@ Proof:
 3. 63 + 420 = 483              multiplication
 4. 483 = 483                   addition
 
+Note: Do not add, subtract, multiply or divide in both sides of the equation when doing your proof section.
+
 **Example #2: Word problem**
 
 Question: John's pay is proportional to the number of hours he works. John makes $34 in 4 hours. How much will he earn in 7 hours?
@@ -75,5 +77,38 @@ Proof:
 2. 8.5 = 59.5/7    division
 3. 8.5 = 8.5       division
 
+Note: Do not add, subtract, multiply or divide in both sides of the equation when doing your proof section.
 
+## Solve for X problems
 
+Very similar to word problems. Provide a solution and proof. Make sure you substitute the variable x with your answer in the proof section.
+
+**Example #1: Solve for X problem**
+
+Question: 3/x + 1/2 = 5/(x-1)
+
+Solution:
+1. 3/x + 1/2 = 5/(x-1)           original question
+2. 3*(x-1)/x + (x-1)/2 = 5       multiply by (x-1) on both sides
+3. 3*(x-1) + x*(x-1)/2 = 5*x     multiply by x on both sides
+4. 2*3*(x-1) + x*(x-1) = 2*5*x   multiply by 2 on both sides
+5. 6*(x-1) + x*(x-1) = 2*5*x     multiply
+6. 6*(x-1) + x*(x-1) = 10*x      multiply
+7. 6*(x-1) + x^2 - x = 10*x      distributive property 
+8. 6*x - 6 + x^2 - x = 10*x      distributive property
+9. -4*x - 6 + x^2 - x = 0        subtract 10*x on both sides
+10. -5*x - 6 + x^2 = 0           subtraction
+11. (x + 1)(x - 6) = 0           factoring
+12. (x + 1) = 0                  one of the factors is 0
+13. x = -1                       subtraction
+14. (x - 6) = 0                  one of the factors is 0
+15. x = 6                        addition
+
+Proof:
+1. 3/(-1) + 1/2 = 5/(-1-1)       original question with x = -1
+2. -3 + 1/2 = 5/(-1-1)           division
+3. -3 + 1/2 = 5/(-2)             subtraction
+4. -2 1/2 = 5/(-2)               subtraction
+5. -2 1/2 = -2 1/2               subtraction
+
+Note: Do not add, subtract, multiply or divide in both sides of the equation when doing your proof section.
