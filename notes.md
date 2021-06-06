@@ -15,12 +15,14 @@ When performing an evaluate an expression math question, prove your solution is 
 
 Question: Evaluate the following expression: 17 - (2 x 3)^2
 
-Solution:
-1. 17 - (2 x 3)^2    original question
-2. 17 - (6)^2        multiplication
-3. 17 - 6^2          removed parenthesis
-4. 17 - 36           power
-5. -19               subtration
+Solution: 
+| # | Work | Reason/Comment |
+| --- | --- | --- |
+| 1. | 17 - (2 x 3)^2    | original question| 
+| 2. | 17 - (6)^2        | multiplication| 
+| 3. | 17 - 6^2          | removed parenthesis| 
+| 4. | 17 - 36           | power| 
+| 5. | -19               | subtration| 
 
 Proof:
 1. -19               original answer 
