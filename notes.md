@@ -1,6 +1,7 @@
-# Math Two-Stage Format
+# Math Three-Stage Format
 
-Your answer must be in a two-stage format, "Solution" and "Proof". Each stage has steps numbered from 1 to *n*. 
+Your answer must be in a three-stage format, "Solution", "Proof", and "Final Answer". 
+The solution and proof stage must have steps numbered from 1 to *n*. 
 Each step must either have an operation or a mathematical rule used (referenced by page number or something like that). 
 Also, you can only use one operation in each step. An operation is any one of the following: Addition, subtraction, multiplication, division, root, or power operation.
 
@@ -26,6 +27,8 @@ Proof:
 4. 17 - (6)^2        added parenthesis
 5. 17 - (2 x 3)^2    multiplication. 
 
+Final Answer: -19
+
 **Example #2: Evaluate an Expression**
 
 Question: Evaluate the following expression: (5.33 x 10^6) ^ -6
@@ -37,6 +40,8 @@ Solution:
 Proof:
 1. 5.33^-6 x 10^-36     original answer
 2. (5.33 x 10^6)^-6     page 29
+
+Final Answer: 5.33^-6 x 10^-36 
 
 ## Word Problems
 
@@ -60,6 +65,8 @@ Proof:
 3. 63 + 420 = 483              multiplication
 4. 483 = 483                   addition
 
+Final answer: 15%
+
 Note: Do not add, subtract, multiply or divide in both sides of the equation when doing your proof section.
 
 **Example #2: Word problem**
@@ -76,6 +83,8 @@ Proof:
 1. 34/4 = 59.5/7   original answer
 2. 8.5 = 59.5/7    division
 3. 8.5 = 8.5       division
+
+Final answer: $59.5 
 
 Note: Do not add, subtract, multiply or divide in both sides of the equation when doing your proof section.
 
@@ -110,5 +119,12 @@ Proof:
 3. -3 + 1/2 = 5/(-2)             subtraction
 4. -2 1/2 = 5/(-2)               subtraction
 5. -2 1/2 = -2 1/2               subtraction
+1. 3/(6) + 1/2 = 5/(6-1)         original question with x = 6
+2. 1/2 + 1/2 = 5/(6-1)           division
+3. 1/2 + 1/2 = 5/(5)             subtraction
+4. 1 = 5/(5)                     addition
+5. 1 = 1                         division
+
+Final answer: x = 6 or x = -1
 
 Note: Do not add, subtract, multiply or divide in both sides of the equation when doing your proof section.
